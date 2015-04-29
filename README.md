@@ -1,5 +1,5 @@
 # Orchard
-Orchard is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform.
+Orchard is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform. This is a build for AppHarbor.
 
 ## About The Orchard Project
 
